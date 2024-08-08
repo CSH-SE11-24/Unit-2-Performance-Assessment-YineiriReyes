@@ -1,0 +1,1 @@
+The concept of my game is for the user to guess basktball players. The instructions to play is to guess the correct basketball player, and if you dont guess right you only have 3 chances before you loose the game. Im proud of myself for making a lot of progress, which I didn't know I was capable of. I wouldn't do anything if I had more time because coding is not what I'm best at.
